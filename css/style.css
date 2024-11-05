@@ -121,6 +121,11 @@ ul {
   margin-bottom: 1em;
 }
 
+#Starters h3 {
+  font-size: 1em;
+  color: #da291c;
+}
+
 
 @media (max-width: 768px) {
   nav#main-nav ul {
